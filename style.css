@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    
+
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: dimgrey;
+    box-shadow: 0 0 35px grey;
+    color: rgb(88, 2, 2);
+    font-size: 50px;
+    height: 150px;
+    text-align: right;
+    margin: 0 0 15px 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header_logo{
+
+    margin: 0px 0px 0px 0px;
+
+
+}
+
+#main{
+
+    display: flex;
+
+}
+
+.main_filters{
+    height: 50%;
+    width: 25%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.main_filters_header{
+    display: flex;
+    background-color: rgb(53, 53, 236);
+    color: honeydew;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+.main_filters_form{
+    color: black;
+    background-color: gainsboro;
+}
+
+input{
+    margin: 15px 20px 15px 70px;
+}
+
+.main_principal{
+    padding: 15px 15px 0 15px;
+    width: 75%;
+    text-align: center;
+    align-items: center;
+}
+
+.main_principal h2 {
+
+    text-align: center;
+
+}
+
+.main_principal h3{
+    text-align: left;
+
+}
+
+.main_principal_lote{
+
+    padding: 20px 30px 20px 30px;
+
+}
